@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A first-year B.Tech CSE student at MM(DU). Passionate about coding and technology, currently learning Python, C++, web development, and DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu987288&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu987288" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu987288" alt="himanshu987288" /></a> </p>
 
 - 📫 How to reach me *dhimanhimanshu9520@gmail.com*
 
