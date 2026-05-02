@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A first-year B.Tech CSE student at MM(DU). Passionate about coding and technology, currently learning Python, C++, web development, and DSA</h3>
+<h3 align="center">A Second-year B.Tech CSE student at MM(DU). Passionate about coding and technology, currently learning Python, C++, web development, and DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu987288&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu987288" /> </p>
 
