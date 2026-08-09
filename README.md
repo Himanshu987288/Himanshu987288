@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A 3rd-year B.Tech CSE student at MM(DU). Passionate about coding and technology, currently learning Python, C++, web development, and DSA</h3>
+<h3 align="center">A 3rd-year B.Tech CSE student at MM(DU) and a passionate Full-Stack Developer with a strong command of Data Structures & Algorithms and a growing expertise in System Design. Experienced in building real-world, scalable applications and solving complex technical problems. I actively participate in hackathons and have secured 1st Runner-Up at HackWithDelhi and 2nd Runner-Up at an IIT Roorkee Hackathon. Passionate about technology, problem-solving, and building impactful software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu987288&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu987288" /> </p>
 
