@@ -1,38 +1,32 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A 3rd-year B.Tech CSE student at MM(DU) and a passionate Full-Stack Developer with a strong command of Data Structures & Algorithms and a growing expertise in System Design. Experienced in building real-world, scalable applications and solving complex technical problems. I actively participate in hackathons and have secured 1st Runner-Up at HackWithDelhi and 2nd Runner-Up at an IIT Roorkee Hackathon. Passionate about technology, problem-solving, and building impactful software solutions.</h3>
+
+<h3 align="center"> A 3rd-year B.Tech CSE student at MM(DU) and a passionate Full-Stack Developer with a strong command of Data Structures & Algorithms and a growing expertise in System Design. Experienced in building real-world, scalable applications and solving complex technical problems. I actively participate in hackathons and have secured 1st Runner-Up at HackWithDelhi and 2nd Runner-Up at an IIT Roorkee Hackathon. Passionate about technology, problem-solving, and building impactful software solutions. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu987288&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu987288" /> </p>
 
-* 📫 How to reach me **[dhimanhimanshu9520@gmail.com](mailto:dhimanhimanshu9520@gmail.com)**
+📫 How to reach me dhimanhimanshu9520@gmail.com
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
-<a href="https://linkedin.com/in/himanshu-dhiman-873586326" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himanshu LinkedIn" height="30" width="40" />
-</a>
+<a href="https://github.com/Himanshu987288" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Himanshu GitHub" height="30" width="40" /> </a>
 
-<a href="https://www.kaggle.com/himansdhiman2" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Himanshu Kaggle" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/himanshu-dhiman-873586326" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himanshu LinkedIn" height="30" width="40" /> </a>
 
-<a href="https://leetcode.com/u/Himanshu987288288/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Himanshu LeetCode" height="30" width="40" />
-</a>
+<a href="https://www.kaggle.com/himansdhiman2" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Himanshu Kaggle" height="30" width="40" /> </a>
+
+<a href="https://leetcode.com/u/Himanshu987288288/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Himanshu LeetCode" height="30" width="40" /> </a>
 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu987288&show_icons=true&locale=en&layout=compact" alt="himanshu987288" />
-</p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu987288&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu987288&show_icons=true&locale=en" alt="himanshu987288" />
-</p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu987288&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu987288" alt="himanshu987288" />
-</p>
+<p> <img align="center" src="https://streak-stats.demolab.com/?user=himanshu987288" alt="GitHub Streak" /> </p>
+
+💻 Tech Stack:
 
 
 # 💻 Tech Stack:
