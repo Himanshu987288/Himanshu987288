@@ -25,36 +25,31 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ## 👨‍💻 ABOUT ME
 
-I'm **Himanshu Dhiman**, a 3rd-year **B.Tech CSE student at MM(DU)** and a passionate Full-Stack Developer.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I have a strong foundation in **Data Structures & Algorithms** and a growing interest in **System Design**.
+I'm **Himanshu Dhiman**, a 3rd-year **B.Tech CSE student at MM(DU)** and a passionate **Full-Stack Developer**.
 
-I enjoy building real-world applications, solving challenging technical problems, participating in hackathons, and exploring technologies that can turn ideas into practical products.
+I have a strong foundation in **Data Structures & Algorithms** and a growing expertise in **System Design**.
+
+I enjoy building real-world applications, solving complex technical problems, participating in hackathons, and exploring technologies that turn ideas into practical products.
 
 </td>
 
-<td width="45%" valign="top">
-
-### CURRENTLY
+<td width="40%" valign="top">
 
 ```text
 ROLE
 └── Full-Stack Developer
 
 FOCUS
-├── Data Structures & Algorithms
+├── DSA
 ├── System Design
 ├── Scalable Applications
 └── Real-World Products
 
-BUILDING
-└── MERN Applications
-
-LEARNING
-└── Distributed Systems
+CURRENTLY
+└── Building & Learning
